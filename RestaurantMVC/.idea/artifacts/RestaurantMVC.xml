@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestaurantMVC">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RestaurantMVC.war" />
+  </artifact>
+</component>
