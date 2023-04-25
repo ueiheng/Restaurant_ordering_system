@@ -14,7 +14,7 @@ A Software Engineering Case Project for Multi person Collaboration - Restaurant 
     
     #### 安装教程
     
-    1.  数据库文件：apsfc 20150727 2133.sql 导入数据库 
+    1.  数据库文件：MealSys.sql 导入数据库 
     2.  修改`applicationContext.xml`文件的数据库信息（默认数据库名：apsfc 用户名：root 密码：123456）
     3.  在根目录下运行`mvn package`,将打包后的war包导入tomcat的`/webapp`目录下
     
