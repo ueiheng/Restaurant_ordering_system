@@ -2,10 +2,7 @@
     
     #### 介绍
     
-    Maven+Idea+Spring+SpringMVC+MyBatis+JSP实现的点餐系统（前台+后台）  
-    github地址：https://github.com/CodingLink/meal_ordering_system  
-    gitee地址：https://gitee.com/CodingPeppa/meal_ordering_system   
-    
+    Maven+Idea+Spring+SpringMVC+MyBatis+JSP实现的点餐系统（前台+后台）    
        
     
     #### 软件架构
